@@ -1,5 +1,8 @@
 # Venv python
 
+* There is a  [blog post]( https://readwithai.substack.com/p/keeping-on-path-python-scripts-in) about this tool and using virtualenv with Python scripts more generally*
+
+
 Venv python is a small utility to create python and pip executable along with a virtualenv they used. This is meant to to be used with command line scripts.
 
 # Motivation
