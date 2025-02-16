@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='venv-python',
-    version="1.0.0",
+    version="1.0.1",
     author='readwithai',
     author_email='talwrii@gmail.com',
     description='Create a specially named python and pip for use with scripts',
