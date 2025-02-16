@@ -41,7 +41,7 @@
 from setuptools import setup
 
 setup(
-    name='venv_python',
+    name='venv-python',
     version=0.1,
     author='readwithai',
     author_email='talwrii@gmail.com',

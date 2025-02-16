@@ -47,6 +47,6 @@ If you are interested in this tool your might also be interested in:
 
 1. This blog post about [sending code to a virtualenv](https://readwithai.substack.com/p/sending-code-to-a-python-virtualenv) from within Emacs using Ipython; or
 2. This command-line tool to use [numpy from the shell](https://github.com/talwrii/npcli/blob/master/README.md)
-
+3. This [library](command) that customizes pdb to be more useable by adding custom commands.
 
 You can follow me on [X](https://x.com/readwithai) or my [blog](https://readwithai.substack.com)
