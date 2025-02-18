@@ -1,6 +1,6 @@
 # Venv python
 
-**Update: It looks like uv supports [per script run time environments specified in file](https://news.ycombinator.com/item?id=42855258) which achieves the same thing as this tool and is more standard. I suggest you use this.**
+**Update: It looks like uv supports [per script run time environments specified in file](https://akrabat.com/using-uv-as-your-shebang-line/) which achieves the same thing as this tool and is more standard. I suggest you use this.**
 
 *There is a  [blog post]( https://readwithai.substack.com/p/keeping-on-path-python-scripts-in) about this tool and using virtualenv with Python scripts more generally*
 
